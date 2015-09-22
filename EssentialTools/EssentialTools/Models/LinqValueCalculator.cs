@@ -5,7 +5,7 @@ using System.Web;
 
 namespace EssentialTools.Models
 {
-    public class LinqValueCalculatorLinqValueCalculator : IValueCalculator
+    public class LinqValueCalculator : IValueCalculator
     {
         public decimal ValueProducts(IEnumerable<Product> products)
         {
