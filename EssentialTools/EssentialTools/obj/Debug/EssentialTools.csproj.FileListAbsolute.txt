@@ -21,6 +21,5 @@ C:\Users\Kasun\Documents\GitHub\EssentialsInMVC\EssentialTools\EssentialTools\bi
 C:\Users\Kasun\Documents\GitHub\EssentialsInMVC\EssentialTools\EssentialTools\bin\System.Web.WebPages.xml
 C:\Users\Kasun\Documents\GitHub\EssentialsInMVC\EssentialTools\EssentialTools\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Kasun\Documents\GitHub\EssentialsInMVC\EssentialTools\EssentialTools\bin\System.Web.WebPages.Razor.xml
-C:\Users\Kasun\Documents\GitHub\EssentialsInMVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
 C:\Users\Kasun\Documents\GitHub\EssentialsInMVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.dll
 C:\Users\Kasun\Documents\GitHub\EssentialsInMVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.pdb
